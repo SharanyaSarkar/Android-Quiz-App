@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Questionnaire App</string>
+    <string name="True">True</string>
+    <string name="False">FALSE</string>
+    <string name="question_declaration">The study of plants is known as botany</string>//True
+    <string name="question_body">There are less than 100 bones in the human body</string>//False-206
+    <string name="question_temp">Kelvin is a measure of Temparature</string>//True
+    <string name="question_human">Human body has four lungs</string>//False-2
+    <string name="question_physics">Albert Einstein was awarded the Nobel Prize in Physics</string>
+    //True
+    <string name="question_spider">Spider has 6 legs</string>//False-8
+    <string name="question_water">Water is an example of a chemical element</string>//False
+    <string name="question_shark">Sharks are Mammals</string>//False-fish
+    <string name="question_electron">Electrons are larger than molecules</string>//False
+    <string name="question_planet">Venus is the closest planet to the sun</string>//False-Mercury
+    <string name="question_ocean">The Atlantic Ocean is the biggest ocean on Earth</string>
+    //False-Pacific Ocean
+    <string name="correct_answer">That\'s Correct</string>
+    <string name="incorrect_answer">That\'s Incorrect</string>
+    <string name="previous_text">previous</string>
+    <string name="next_text">next</string>
+</resources>
